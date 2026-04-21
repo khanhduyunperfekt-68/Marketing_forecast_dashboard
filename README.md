@@ -68,7 +68,7 @@ This project is a complete Data Science tool for Marketing Analytics, designed t
 - pip or conda
 
 ## How to Use
-For Data Scientists
+### For Data Scientists
 Run 01_Data_Processor.ipynb to prepare data
 
 Run 02_Core_Model.ipynb to train and compare models
@@ -77,7 +77,7 @@ Run 03_Optimization_Engine.ipynb to find optimal budget
 
 Run 04_Diagnostic_Logic.ipynb to generate alerts
 
-## For Business Users
+### For Business Users
 Launch Streamlit app: streamlit run app.py
 
 Upload your marketing data (CSV format)
